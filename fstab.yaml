@@ -1,0 +1,2 @@
+mountpoints:
+  /: https://<your-sharepoint-link>/hlb-eds-content
